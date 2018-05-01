@@ -1,6 +1,6 @@
 This is the example blog app from my [May 2018 talk](https://www.meetup.com/djangoboston/events/249614046/) at Django Boston on Django on **Django APIs + React**.
 
-Slides are [available online](https://docs.google.com/presentation/d/16IXgaqbjNLpwyrIPZU0FcIgm6e6DlilXyIQB2bXSsY4/edit?usp=sharing).
+Slides are available online at [https://tinyurl.com/drf-react](https://tinyurl.com/drf-react).
 
 ## Local setup
 
